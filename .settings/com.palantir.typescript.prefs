@@ -1,0 +1,5 @@
+build.path.exportedFolder=WebContent/js
+build.path.sourceFolder=WebContent/ts
+compiler.outputDirOption=WebContent/js
+compiler.outputFileOption=a.js
+eclipse.preferences.version=1
